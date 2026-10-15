@@ -23,6 +23,7 @@ Each script reads `2024_Season.csv` and `2014_Season.csv` and writes its PNG:
 | `python scatterplot_script.py` | `scatterplot_cmp_avg.png` — CMP% vs AVG with a line of best fit per season |
 
 ## Files
+- `FINDINGS.md` — write-up of the 2014 vs. 2024 comparison: key findings, a second look on qualified passers, data notes, and the 2026 outlook.
 - `scraper.py` — the ESPN scraper.
 - `2024_Season.csv`, `2014_Season.csv` — the top 50 passers for each season, cleaned up for analysis. These are the inputs to the chart scripts.
 - `2024 Output with Names Below`, `2014 Output with Names Below` — the same stats with each player's name and team listed underneath the table.
